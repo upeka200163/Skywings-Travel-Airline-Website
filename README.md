@@ -10,7 +10,7 @@ Built with clean UI principles and modern front-end technologies, this project c
 ## 🌍 Live Preview
 
 🔗 GitHub Repository:  
-https://github.com/upeka200163/Skywings-Travel-Page
+https://github.com/upeka200163/Skywings-Travel-Airline-Website.git
 
 ---
 
@@ -131,7 +131,7 @@ Built using:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/upeka200163/Skywings-Travel-Page.git
+https://github.com/upeka200163/Skywings-Travel-Airline-Website.git
 ```
 
 ## Navigate to the Project Folder
