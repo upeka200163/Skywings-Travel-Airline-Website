@@ -163,20 +163,6 @@ in your browser.
 
 ---
 
-# 📸 Preview
-
-_Add screenshots or GIF previews of your project here._
-
-Example:
-
-```md
-![Skywings Preview](images/preview.png)
-```
-
----
-
-
-
 # 📄 License
 
 This project is licensed under the MIT License.
