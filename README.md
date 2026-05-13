@@ -10,7 +10,7 @@ Built with clean UI principles and modern front-end technologies, this project c
 ## 🌍 Live Preview
 
 🔗 Live Demo:  
-https://upeka200163.github.io/Skywings-Travel-Airline-Website/
+
 
 ---
 
